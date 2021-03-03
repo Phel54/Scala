@@ -1,0 +1,1 @@
+class main(var first: String = "John", var last: String = "Doe")

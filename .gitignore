@@ -12,7 +12,11 @@ project/plugins/project/
 .history
 .cache
 .lib/
-
+build.sbt
+.idea
+.bsp
+null
+project
 ### Scala template
 *.class
 *.log
